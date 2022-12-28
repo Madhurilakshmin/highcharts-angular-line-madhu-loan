@@ -23,6 +23,7 @@ export class AppComponent {
     yAxis: {
       title: {
         text: 'Number of Employees',
+        
       },
     },
 
